@@ -1,0 +1,43 @@
+[33mcommit 1677bf7942262e849799e4b03970c97ca0d0d885[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 32ad3f3 922bcea
+Author: zefir <ippolitov16@gmail.com>
+Date:   Thu Sep 9 06:51:50 2021 +0300
+
+    Merge branch 'main' of github.com:A1exIP/projc
+
+[33mcommit 32ad3f3efad8da33ddbc1b9594b96886cf661087[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: zefir <ippolitov16@gmail.com>
+Date:   Thu Sep 9 06:42:45 2021 +0300
+
+    new code feature
+
+[33mcommit 922bcea6ae5abc835fc1e42bd4f92b7c8d00ef7f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 753fa8e d3b2a33
+Author: zefir <ippolitov16@gmail.com>
+Date:   Thu Sep 9 06:37:43 2021 +0300
+
+    Merge branch 'gui-branch' into main
+
+[33mcommit d3b2a33ab6defdc9f72f73db27cb6e2f515f6fc4[m
+Author: zefir <ippolitov16@gmail.com>
+Date:   Thu Sep 9 06:36:56 2021 +0300
+
+    update git kraken
+
+[33mcommit 85fba3e176e42eb1d57aaaa10038de25872d95b3[m
+Author: A1exIP <71098402+A1exIP@users.noreply.github.com>
+Date:   Thu Sep 9 06:11:50 2021 +0300
+
+    Update dev.md
+
+[33mcommit 214f2aa81cb0720296a388af4af3cde7c7748bd7[m
+Author: zefir <ippolitov16@gmail.com>
+Date:   Thu Sep 9 06:07:28 2021 +0300
+
+    first dev commit
+
+[33mcommit 753fa8eeb290e9a45a7063fefa7f3cf770756eb7[m
+Author: A1exIP <71098402+A1exIP@users.noreply.github.com>
+Date:   Thu Sep 9 05:55:43 2021 +0300
+
+    Initial commit
